@@ -4,22 +4,22 @@ public class Casting02 {
     public static void main(String[] args) {
                 
         //World population today
-        long currentWorldPop = 7_000_000_000;
+        long currentWorldPop = 7_000_000_000L; // Faltava colocar o L ao lado
         System.out.println("Current World Population: " +currentWorldPop);
         
         //World population in 1950,  Source: United Nations Population Division
         //2.52 Billion
         int africaPop   =   221_000_000;
-        int asiaPop     = 1_402_000_000;
+        long asiaPop     = 1_402_000_000L; // Mudei o tipo para long
         int europePop   =   547_000_000;
         int americasPop =   339_000_000;
         int oceanaPop   =    13_000_000;
         System.out.println("World Population in 1950: " 
-                +africaPop +asiaPop +europePop +americasPop +oceanaPop);
+                + (africaPop +asiaPop +europePop +americasPop +oceanaPop)); //Coloquei o () para somar e nao só imprimir
         
         //The current population of Asia is an estimated 60% of the world population
         double percentAsia = 0.6;
-        long currentAsiaPop = currentWorldPop * percentAsia;
+        long currentAsiaPop = (long)(currentWorldPop * percentAsia); // Fiz um casting para mudar o tipo de double para long
         System.out.println("Current Asia Population: " +currentAsiaPop);      
        
     }  
