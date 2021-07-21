@@ -28,11 +28,11 @@ Type: Curso
 
     ![Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%202.png](Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%202.png)
 
-    1. Nao faz sentido essa questão, voce pode conseguir um resultado mesmo pulando uma etapa, mas a solução vai parecer mais confusa, estranho...
+    2. Nao faz sentido essa questão, voce pode conseguir um resultado mesmo pulando uma etapa, mas a solução vai parecer mais confusa, estranho...
 
     ![Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%203.png](Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%203.png)
 
-    1.  A palavra chave é implementar, eu não vou implementar, e sim vou pensar em como implementar, implementar vem depois:
+    4.  A palavra chave é implementar, eu não vou implementar, e sim vou pensar em como implementar, implementar vem depois:
     → Requisitos → Design → Implementar → Testar → [...]
 
     ![Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%204.png](Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%204.png)
@@ -41,7 +41,7 @@ Type: Curso
 
     ![Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%206.png](Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%206.png)
 
-    1.  Pensei que instrução de quebra fosse pausar, mas na verdade ele significa `break` oq faz parar a função...
+    10.  Pensei que instrução de quebra fosse pausar, mas na verdade ele significa `break` oq faz parar a função...
 
     ![Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%207.png](Section%202%20-%20Java%20Software%20Development%209f8b1275cec44406abb04877c2ee6429/Untitled%207.png)
 
