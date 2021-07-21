@@ -19,5 +19,12 @@ public class App {
         //JFo3-4:
 
 
+        //JFo3
+
+        String nome = "Aoba";
+        String semnome = "Jose";
+        nome = nome + semnome;
+        System.out.println(nome);
+
     }
 }
